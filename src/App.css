@@ -1,0 +1,20 @@
+
+.App {
+ 
+}
+
+.app-body{
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  height: 100vh;          
+  width: 100%;
+}
+body{
+  background-image: url('./assests/images/sofa-green-living-room-with-copy-space.jpg');
+  background-size : cover;
+  background-repeat: no-repeat;
+ 
+}
