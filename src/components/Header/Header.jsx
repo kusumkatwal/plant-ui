@@ -4,7 +4,6 @@ import { PiSquaresFourThin } from "react-icons/pi";
 import { PiArrowSquareOutThin } from "react-icons/pi";
 
 import './Header.css';
-import { Link } from "react-router-dom";
 
 
 export default function Header() {

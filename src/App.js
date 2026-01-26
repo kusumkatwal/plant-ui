@@ -1,7 +1,7 @@
 import "./App.css";
 import MainContent from "./components/MainContent/MainContent";
 import Sidebar from "./components/Sidebar/Sidebar";
-import Header from "./components/Header/Header";
+// import Header from "./components/Header/Header";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import CartContextProvider from "./components/context/CartContext";
 import Cart from "./components/Cart/Cart";
